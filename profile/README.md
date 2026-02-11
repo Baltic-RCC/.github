@@ -7,7 +7,7 @@ Our mission is to support the power system security of supply in Baltics and in 
 | Service  | Methodology  | Repository  | 
 |---|---|---|
 |  c) Common Grid delivery |  https://eepublicdownloads.entsoe.eu/clean-documents/CIM_documents/Grid_Model_CIM/EMF%20requirements%20specification%20v3_Approved.pdf | https://github.com/Baltic-RCC/EMF  |  
-|  j) Regional sizing of reserve capacity | https://www.acer.europa.eu/sites/default/files/documents/Individual%20Decisions/ACER_Decision_12-2023_on_RCC_Regional_Sizing_of_Reserve_Capacity_Methodology.pdf  | https://github.com/Baltic-RCC/year-ahead-sizing  |   
+|  j) Regional sizing of reserve capacity | https://www.acer.europa.eu/sites/default/files/documents/Individual%20Decisions/ACER_Decision_12-2023_on_RCC_Regional_Sizing_of_Reserve_Capacity_Methodology.pdf  | https://github.com/Baltic-RCC/sizing-and-procurement  |   
 | b) Coordinated security analysis  |  https://consultations.entsoe.eu/system-operations/article-76-so-regulation-baltic-methodology/supporting_documents/Baltic%20ROSC%20proposal%20SO76%20for%20public%20consultation.pdf | https://github.com/Baltic-RCC/NC-Data-Exchange  |  
 
 
